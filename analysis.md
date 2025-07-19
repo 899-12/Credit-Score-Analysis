@@ -1,7 +1,7 @@
 
 
 
-## ✅ Final `analysis.md`
+## analysis.md
 
 ```markdown
 # 📊 Credit Score Analysis of Aave V2 Wallets
