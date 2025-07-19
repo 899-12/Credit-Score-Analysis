@@ -1,4 +1,4 @@
-# aave-defi-credit-score/src/simulate_labels.py
+
 import numpy as np
 
 def generate_credit_score(row):
